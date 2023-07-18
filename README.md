@@ -1,5 +1,5 @@
 
-# Chess ENgine
+# Chess Engine
 ChessEngine is a chess AI implemented in Python. The engine uses the Minimax algorithm with Alpha-Beta pruning to determine the best move, providing an immersive and challenging game of chess.
 
 # Features
@@ -74,10 +74,10 @@ This will start a game of chess. Enjoy!
  r: RESET BOARD
  
 
-Contributing
+# Contributing
 We welcome contributions to ChessEngine! Please see our Contributing Guide for more details.
 
-Contact
+# Contact
 If you have any questions or suggestions, feel free to reach out.
 
 Please replace the URL in the git clone command with the URL of your actual repository. Also, create the CONTRIBUTING.md file to provide guidance on how to contribute to your project.
